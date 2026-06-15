@@ -1,5 +1,5 @@
 # Pragma Project Committee Meeting
-**15th July 2026**
+**15th June 2026**
 
 ---
 
