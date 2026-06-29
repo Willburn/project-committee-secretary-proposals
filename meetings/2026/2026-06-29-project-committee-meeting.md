@@ -23,7 +23,8 @@
 ---
 
 ## Discussions
-- Short meeting, we agreed time is better spent reviewing the application asynchroniously with the form available to the members of the committee. 
+- Short meeting, we agreed time is better spent reviewing the application asynchroniously with the form available to the members of the committee.
+- Discussed Conflict of Interest. Agreed if in direct conflict of interest (coding for the project, direct personal money gain etc) you should recuse from vote, but can note any conflict of interests outside of this and still vote. Short discussion that in case of ties chair vote weights the decicion. 
 
 ---
 
